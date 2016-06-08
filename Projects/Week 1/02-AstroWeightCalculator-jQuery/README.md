@@ -11,7 +11,7 @@ For this assignment, you've been hired back by the NASA Jet Propulsion Laborator
   2a. Initialize an empty git repository in `02-AstroWeightCalculator-jQuery` by running `git init` in the command prompt.
   2b. Create a repository on GitHub called `02-AstroWeightCalculator-jQuery` and follow the instructions to add a remote origin.
 3. Open this folder in your favorite text editor (Ours is Sublime!)
-4. Create an `index.html` file and a corresponding `index.js` file.
+4. Create an `index.html` file and a corresponding `index.js` file. Add an external style sheet named `styles.css`.
 5. Create a basic HTML page, and make sure it has the following HTML elements.
    - An `input` element for the user to enter their weight.
    - A `select` element for the user to select a planet, populated with `option` elements where the value attribute is set to the surface gravity for that planet, and the content inside of the `option` elements represents the name of that planet.
@@ -22,7 +22,27 @@ For this assignment, you've been hired back by the NASA Jet Propulsion Laborator
    - Create a function that will be called when the user clicks on the `button` element you added to your HTML.
    - This function should grab the values entered by the user from the `input` element and the `select` element.
    - The function should then calculate the weight of the user on the selected planet, and show the weight to the user in the `p` element you added to your HTML.
-    
+8. Use Bootstrap to style your html according to one of the available layouts.
+9. For extra credit, populate the select element options _dynamically_ using this array of arrays:
+
+```javascript
+var planets = [
+  ['Sun', 27.9],
+  ['Jupiter', 2.54],
+  ['Neptune', 1.19],
+  ['Saturn', 1.08],
+  ['Earth', 1],
+  ['Moon', 0.1655],
+  ['Mars', 0.3895],
+  ['Jupiter', 2.640],
+  ['Saturn', 1.139],
+  ['Uranus', 0.917],
+  ['Neptune', 1.148],
+  ['Pluto', 0.06]
+];
+`
+
+
 ## Planet Data
 <table>
    <thead>
