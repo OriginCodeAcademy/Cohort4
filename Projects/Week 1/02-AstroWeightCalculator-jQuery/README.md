@@ -29,9 +29,8 @@ For this assignment, you've been hired by the NASA Jet Propulsion Laboratory to 
 ```javascript
 var planets = [
   ['Sun', 27.9],
-  ['Jupiter', 2.54],
-  ['Neptune', 1.19],
-  ['Saturn', 1.08],
+  ['Mercury', 0.377],
+  ['Venus', 0.9032],
   ['Earth', 1],
   ['Moon', 0.1655],
   ['Mars', 0.3895],
