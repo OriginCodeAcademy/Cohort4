@@ -16,7 +16,7 @@ This should give you a visual idea of what is required. Since it is just a proto
 * Open Sublime Text 
 * Click File > Open (Folder)
 * Select the folder you created
-* Add files: index.html, index.js, index.css
+* Add files: index.html, index.js, styles.css
 
 **3. Write the application**
 * Hint: the modulo operator might come in handy for this assignment
