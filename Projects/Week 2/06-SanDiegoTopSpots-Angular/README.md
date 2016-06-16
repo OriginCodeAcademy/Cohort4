@@ -32,6 +32,6 @@ There are some great places to see in downtown San Diego. In this project you'll
 
 ## Turn In Instructions
 * Push your changes to GitHub using `git push origin master`
-* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-CW-SpringCohort/issues/new?title=06-SanDiegoTopSpots&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20did%20you%20enjoy%20most%20about%20this%20project%3F%0A%0A3.%20What%20was%20the%20toughest%20part%3F%0A%0A)
+* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-SC-SummerCohort/issues/new?title=06-SanDiegoTopSpots&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20did%20you%20enjoy%20most%20about%20this%20project%3F%0A%0A3.%20What%20was%20the%20toughest%20part%3F%0A%0A)
     * Include a link to your repository in the description
     * Answer the questions filled out for you in the description
