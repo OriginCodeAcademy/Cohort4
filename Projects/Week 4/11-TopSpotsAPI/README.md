@@ -9,7 +9,7 @@ You must also make sure that your API returns the JSON in camelCase format (the 
 This assignment will be a two day assignment to ensure that everybody works out the kinks moving from Sublime to Visual Studio, and give you some time to research C#.
 
 ## Mac Owners
-1. Install VirtualBox and create a Windows 10 Virtual Machine (See Cameron for an ISO file containing Windows 10)
+1. Install VirtualBox and create a Windows 10 Virtual Machine (See Sean for an ISO file containing Windows 10)
 2. Install [Google Chrome](https://www.google.com/chrome/browser/desktop/)
 3. Install [Git](http://www.git-scm.com) to your Windows 10 machine
 4. Install [Visual Studio 2015 Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
