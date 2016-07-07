@@ -20,7 +20,7 @@ For this exercise, you will learn to install a SQL Server database using the res
 * You should see a message indicating the restore completed successfully. You should also see the Northwind database listed under 
 Databases.
 * Select the Northwind database in the object explorer and open the Tables folder to view the 13 tables of the database
-* In the toolbar above the object explorer, change the selected default Master database to NORTHWIND
+* In the toolbar above the object explorer, change the selected default Master database to NORTHWND
 * Click the New Query button in the upper tool bar and save this file locally as sql-exercises.sql.
 * Click the New Query button again to open a fresh query session and work your way through the exercises. As you complete each exercise, add and save the required SQL statement to sql-exercises.sql with a comment indicating which exercise it belongs to.
 * When you've finished, upload the completed sql script to your GitHub account under 14 - Fun with SQL Queries
