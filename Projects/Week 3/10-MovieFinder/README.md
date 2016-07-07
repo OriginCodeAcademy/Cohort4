@@ -30,6 +30,6 @@ You should make use of Angular JS, Bootstrap and the OMDB API (http://omdbapi.co
 
 ## Turn in instructions
 * Push your changes to GitHub 
-* [Click here to create an issue in the class repository](https://github.com/OriginCodeAcademy/2016-CW-SpringCohort/issues/new?title=10-MovieNerd&body=1.%20Where%20can%20I%20find%20your%20repository%3F%0D%0A%0D%0A%0D%0A%0D%0A2.%20Did%20you%20complete%20any%20of%20the%20extras%3F)
+* [Click here to create an issue in the class repository](https://github.com/OriginCodeAcademy/2016-SC-SummerCohort/issues/new?title=10-MovieNerd&body=1.%20Where%20can%20I%20find%20your%20repository%3F%0D%0A%0D%0A%0D%0A%0D%0A2.%20Did%20you%20complete%20any%20of%20the%20extras%3F)
 	* Include a link to your repository in the description
 	* Answer the questions filled out for you in the description
