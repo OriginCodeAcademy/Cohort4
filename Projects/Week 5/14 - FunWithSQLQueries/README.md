@@ -48,4 +48,4 @@ Create SQL statements to complete the following:
 17. Return all employee first and last names from the Employees table by combining the 2 columns aliased as 'DisplayName'. The combined format should be 'LastName, FirstName'.
 18. Add yourself to the Customers table with an order for 'Grandma's Boysenberry Spread'.
 19. Remove yourself and your order from the database.
-20. Return a list of products from the Products table along with the total units in stock for each product. Give the computed column a name using the alias, 'TotalUnits'. Include only products with TotalUnits greater than 100.
+20. Return a list of products from the Products table along with the total units in stock for each product. Include only products with TotalUnits greater than 100.
