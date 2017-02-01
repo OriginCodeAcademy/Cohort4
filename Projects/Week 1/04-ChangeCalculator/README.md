@@ -9,10 +9,10 @@ This should give you a visual idea of what is required. Since it is just a proto
 ## Tasks
 
 **1. Set up your repository**
-* Create a new repository on GitHub called **04-ChangeCalculator**.
+* Create a new repository on GitHub called **03-ChangeCalculator**.
 
 **2. Set up a folder to contain your HTML/CSS and JS files**
-* Create a new folder called "04-ChangeCalculator" on your local file system
+* Create a new folder called "03-ChangeCalculator" on your local file system
 * Open Sublime Text 
 * Click File > Open (Folder)
 * Select the folder you created
@@ -28,6 +28,6 @@ This should give you a visual idea of what is required. Since it is just a proto
 ## Turn in instructions
 
 * Push your changes to GitHub 
-* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-SC-SummerCohort/issues/new?title=04-ChangeCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20was%20your%20biggest%20success%20in%20this%20application%3F%0A%0A3.%20What%20extras%20did%20you%20add%20to%20this%20project%3F%0A%0A4.%20What%20was%20the%20hardest%20part%20for%20you%20with%20this%20project%3F)
+* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-CW-FallCohort/issues/new?title=03-ChangeCalculator&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20What%20was%20your%20biggest%20success%20in%20this%20application%3F%0A%0A3.%20What%20extras%20did%20you%20add%20to%20this%20project%3F%0A%0A4.%20What%20was%20the%20hardest%20part%20for%20you%20with%20this%20project%3F)
 	* Include a link to your repository in the description
 	* Answer the questions filled out for you in the description
